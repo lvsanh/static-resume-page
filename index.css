@@ -1,3 +1,13 @@
+/*index.css*/
 body {
-    background-color: #888888;
+    background-color: #eff3ed;
+    font-family: 'Courier New', Courier, monospace;
    }
+
+.social-media-button {
+    height: 2rem;
+  }
+
+.footer-selector {
+    text-align: center;
+}
